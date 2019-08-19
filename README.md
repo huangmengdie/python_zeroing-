@@ -22,3 +22,9 @@
 *数据可视化部分*
 
 **利用的是python库Highcharts与pyecharts的使用**
+
+---
+如果对你有所帮助，小额赞赏即可
+<br>
+
+![image](https://mmbiz.qpic.cn/mmbiz_png/iaPpEE0NQ6YLfPpDvMxnVUUdO8Uib8f5ZoQPBASe8EbhDMRjOX3IGvzImAAzHvBTibLLlnkodNoMyHO5xEgbuTZFw/0?wx_fmt=png)
