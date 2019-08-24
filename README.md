@@ -13,7 +13,7 @@
 每一套源码都至少涉及一篇图文教程，所有教程都在在我的微信公众号：**zeroing说**中，直接下面的二维码即可关注
 -----
 
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/iaPpEE0NQ6YLscAM6MboNtMCpFOxx5dBIrXCoZOLaQzWZYBKWGnib0to2390iaFUPrLZufG9d6Wx2fSNJsoBRk0ng/0?wx_fmt=jpeg)
+![image](https://i.loli.net/2019/08/24/UljexrzL3kSNXQy.jpg)
 
 -----
 
