@@ -12,10 +12,16 @@
 
 ----
 
-proxy_pool启动方法，同时运行flask_api.py与shedule.py文件，使得python正常运行。
+proxy_pool启动方法，同时运行flask_api.py与shedule.py文件，代理可以正常运行。
 
 ----
 
+代理获取代码：
+
+
+
+
+----
 个人微信公众号：**zeroing说**，期待你的关注！
 
 ----
